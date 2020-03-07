@@ -7,6 +7,6 @@ a count of the minimums (days when the Sun and the body are essentially at the s
 for an average of 7.32 yearly
 ```
 
-This code was quickly put together to calculate numbers used in a WRAL.com article on the subject of the Nov 11, 2019 Transit of Mercury.  
+This code was quickly put together to calculate numbers used in a WRAL.com article on the subject of the [Nov 11, 2019 Transit of Mercury](https://www.wral.com/see-the-rare-transit-of-mercury-on-monday/18753468/)
 
 Handling of leap days has been simplified here.
