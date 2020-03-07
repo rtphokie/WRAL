@@ -1,0 +1,6 @@
+skyfield
+geopy
+python-varname
+pytz
+pandas
+numpy
